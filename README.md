@@ -1,6 +1,9 @@
 ## Hi there 👋
 My name is Min Htut Myat and you can call me Max. Aspiring and passionate for Web design and development.
+-🛠️ Dedicating my leisure time to deep learning about CS, programming, and problem-solving.
+-Exploring Computer Science & Logic
 - 🔭 I'm on a journey to master front-end development. I'm deeply learning HTML, CSS, and frameworks like Bootstrap, Tailwind CSS, SwiperJS, and JavaScript, fueled by my passion for creating engaging, responsive user experiences.
+- Always up for collaboration & open-source contributions.
 - - 📫 How to reach me:(minhtutmyatedu@gmail.com)
 <!--
 **minhtut-hub/minhtut-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
